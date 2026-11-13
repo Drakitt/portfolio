@@ -125,7 +125,7 @@ Production builds set `NEXT_PUBLIC_SITE_URL` to that GitHub Pages origin so cano
 
 ## Contact
 
-- Email: [d.raquel.terrazas.t@gmail.com](mailto:d.raquel.terrazas.t@gmail.com)
+- Email: [raquel.terrazas.dev@gmail.com](mailto:raquel.terrazas.dev@gmail.com)
 - GitHub: [github.com/Drakitt](https://github.com/Drakitt)
 - LinkedIn: [linkedin.com/in/raquel-terrazas-968897206](https://www.linkedin.com/in/raquel-terrazas-968897206/)
 - Barcelona, Spain
